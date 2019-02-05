@@ -106,7 +106,7 @@ pentaho-mongo-utils uses the maven framework.
 
 #### Building it
 
-This is a maven project, and to build it use the following command
+This is a maven project, and to build it use the following command:
 
 ```
 $ mvn clean install
